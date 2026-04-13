@@ -21,7 +21,9 @@ Notes:
 - If PyQt5 is missing, install it using pip
 Screenshot:
 
-![Result](Result.png)
+## Result
+
+![Result](./result.png)
 
 
 Author: Mohamed Skander Limam
