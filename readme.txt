@@ -20,7 +20,8 @@ Notes:
 - The program must be run with all project files in one folder
 - If PyQt5 is missing, install it using pip
 Screenshot:
-![Result](Result.png)
+
+![Result Screenshot](Result.png)
 
 
 Author: Mohamed Skander Limam
