@@ -20,7 +20,7 @@ Notes:
 - The program must be run with all project files in one folder
 - If PyQt5 is missing, install it using pip
 
-##Notice!##:Double tap the Rectangle or the Trapzoidal sections to see the results more clearly 
+##Notice!##:Double tap the Rectangle or the Trapzoidal sections to see their results more clearly 
 
 
 Author: Mohamed Skander Limam
