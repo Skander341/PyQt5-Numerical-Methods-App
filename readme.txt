@@ -23,7 +23,7 @@ Screenshot:
 
 ## Result
 
-![Result](./result.png)
+![Result](./Result.png)
 
 
 Author: Mohamed Skander Limam
