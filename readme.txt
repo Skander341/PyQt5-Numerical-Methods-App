@@ -21,7 +21,7 @@ Notes:
 - If PyQt5 is missing, install it using pip
 Screenshot:
 
-![Result Screenshot](Result.png)
+![Result](Result.png)
 
 
 Author: Mohamed Skander Limam
